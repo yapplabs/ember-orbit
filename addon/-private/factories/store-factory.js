@@ -1,4 +1,4 @@
-import OrbitStore from '@orbit/store';
+import OrbitStore from '@orbit/memory';
 
 export default {
   create(injections = {}) {
